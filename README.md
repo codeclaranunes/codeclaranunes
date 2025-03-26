@@ -1,5 +1,5 @@
 ## Olá! Sou a Clara 💻👋
-formada em Análise e Desenvolvimento de Sistemas pela FATEC Ourinhos (2024). Ao longo da formação, desenvolvi projetos que estão disponíveis em repositórios, incluindo trabalhos acadêmicos e projetos de cursos complementares. Estou sempre em busca de desafios e aprendizados contínuos.
+ Ao longo da formação, desenvolvi projetos que estão disponíveis em repositórios, incluindo trabalhos acadêmicos e projetos de cursos complementares. Estou sempre em busca de desafios e aprendizados contínuos.
  <br> Tecnologias que mais utilizo ⬇️  </br>
 <div style="display: inline_block"><br>
   
